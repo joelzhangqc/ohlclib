@@ -34,4 +34,4 @@ I decide to gradually migrate my private quantum functions to public!
 - [ ] Pipeline to update Patterns
  
 - MISC
-- [ ] release in pypi
+- [ ] Release in pypi
