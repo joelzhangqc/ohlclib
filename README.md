@@ -32,6 +32,9 @@ I decide to gradually migrate my private quantum functions to public!
 - [ ] Pipeline to update OHLC daily to database
 - [ ] Pipeline to update Indicators
 - [ ] Pipeline to update Patterns
- 
+
+- Machine learning
+- [ ] Random forest algorithm to predict future price
+
 - MISC
 - [ ] Release in pypi
