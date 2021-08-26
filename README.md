@@ -16,7 +16,6 @@ I decide to gradually migrate my private quantum functions to public!
 > [MIT License](LICENSE)
 
 # Features:
----
 - Indicators
 - [x] Bias
 - [x] Ema
