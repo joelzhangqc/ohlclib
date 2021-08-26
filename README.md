@@ -21,17 +21,17 @@ I decide to gradually migrate my private quantum functions to public!
 - [x] Ema
 - [x] Stochastic(kd)
 - [x] macd
----
+
 - Patterns
 - [x] Engulfing
 - [x] Hammer
 - [x] Morning and Evening star
----
+
 - Automation
 - [ ] Find a solution to store OHLC data for US stock market
 - [ ] Pipeline to update OHLC daily to database
 - [ ] Pipeline to update Indicators
 - [ ] Pipeline to update Patterns
----
+ 
 - MISC
 - [ ] release in pypi
