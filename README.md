@@ -7,3 +7,6 @@ This project offers technical functions based on OHLC data for any time series p
 > I prepared a convenient script for you to install ta-lib.   
 > It will first install numpy and then followed by a series of command to install ta-lib.  
 > Please run scripts/install_talib.sh to install talib for your convenience.
+
+
+joelzhangqc
