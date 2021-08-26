@@ -1,8 +1,7 @@
 # ohlc-technical
 This project offers technical functions based on OHLC data for any time series price candle stick data.
 
-I decide to gradually put my private quantum functions to public!
-Please wait until this project become complete.
+I decide to gradually migrate my private quantum functions to public!
 
 - ### Features to be expected:
 ---
@@ -25,7 +24,6 @@ Please wait until this project become complete.
 > Please run scripts/install_talib.sh to install talib for your convenience.
 - yahoo_fin
 > [Official documentation](http://theautomatic.net/yahoo_fin-documentation/)
-
 
 # License
 > [MIT License](LICENSE)
