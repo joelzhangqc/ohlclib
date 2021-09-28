@@ -27,7 +27,7 @@ def hammer(data: pd.DataFrame):
 
 
 if __name__ == '__main__':
-    pd.options.display.max_rows = 200
+    pd.options.display.max_rows = 800
     pd.options.display.max_columns = 200
     pd.set_option('max_colwidth', 120)
     pd.options.display.width = 2080
@@ -35,4 +35,4 @@ if __name__ == '__main__':
     _hist_data = get_data('msft', interval="1d")
     hammer(data=_hist_data)
 
-    print(_hist_data.tail(20))
+    print(_hist_data.tail(40))
